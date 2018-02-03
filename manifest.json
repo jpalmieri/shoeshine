@@ -5,6 +5,8 @@
   "description": "This extension invites you to donate money when you are about to buy.",
   "version": "0.1",
 
+  "options_page": "options/options.html",
+
   "permissions": [
     "storage",
     "activeTab",
